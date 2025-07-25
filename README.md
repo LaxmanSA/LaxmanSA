@@ -2,7 +2,7 @@
 💻 I build full-stack applications using Java, Spring Boot, JavaScript, and React & MySQL.  
 🚀 Currently learning advanced backend systems and deploying scalable apps.  
 🔍 Exploring new tech and contributing to open-source when I can.  
-📫 Let's connect: [LinkedIn](https://linkedin.com/in/yourprofile)
+📫 Let's connect: [LinkedIn](https://www.linkedin.com/in/laxman-andhale-)
 
 
 ## 🌐 Socials:
